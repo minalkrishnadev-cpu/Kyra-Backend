@@ -1,0 +1,591 @@
+[
+  {
+    "filename": "5_2688ef54.png",
+    "article_name": "Floral Button-Up Shirt",
+    "category": "Top",
+    "subcategory": "Dress Shirt",
+    "basic_color": "Navy Blue",
+    "color_hex_codes": [
+      {
+        "hex": "#1E3F66",
+        "percentage": 70
+      },
+      {
+        "hex": "#D2A679",
+        "percentage": 30
+      }
+    ],
+    "pattern": "floral",
+    "texture": "soft fabric",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "5_2688ef54"
+  },
+  {
+    "filename": "6_be59fce1.png",
+    "article_name": "Brown Embroidered Button-Up",
+    "category": "Top",
+    "subcategory": "Shirt",
+    "basic_color": "Brown",
+    "color_hex_codes": [],
+    "pattern": "graphic",
+    "texture": "soft fabric",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "6_be59fce1"
+  },
+  {
+    "filename": "7_e46e7987.png",
+    "article_name": "Grey Short Sleeve Shirt",
+    "category": "Top",
+    "subcategory": "Shirt",
+    "basic_color": "Grey",
+    "color_hex_codes": [],
+    "pattern": "striped",
+    "texture": "Unknown",
+    "material": "Unknown",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "7_e46e7987"
+  },
+  {
+    "filename": "8_32b4acd3.png",
+    "article_name": "Purple Floral Button-Up Shirt",
+    "category": "Top",
+    "subcategory": "Shirt",
+    "basic_color": "Purple",
+    "color_hex_codes": [],
+    "pattern": "floral",
+    "texture": "smooth fabric",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "summer",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "8_32b4acd3"
+  },
+  {
+    "filename": "b1_8c48978f.png",
+    "article_name": "Dark Brown Chinos",
+    "category": "Bottom",
+    "subcategory": "Chinos",
+    "basic_color": "Dark Brown",
+    "color_hex_codes": [
+      {
+        "hex": "#4B3B2A",
+        "percentage": 90
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth cotton",
+    "material": "cotton",
+    "occasion": "Business Casual",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "b1_8c48978f"
+  },
+  {
+    "filename": "b1_8c48978f_8c48978f.png",
+    "article_name": "Dark Brown Chinos",
+    "category": "Bottom",
+    "subcategory": "Chinos",
+    "basic_color": "Dark Brown",
+    "color_hex_codes": [
+      {
+        "hex": "#3B2F2F",
+        "percentage": 100
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth",
+    "material": "cotton",
+    "occasion": "Business Casual",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "b1_8c48978f_8c48978f"
+  },
+  {
+    "filename": "b2_d0da608e.png",
+    "article_name": "Cream Chinos",
+    "category": "Bottom",
+    "subcategory": "Chinos",
+    "basic_color": "Cream",
+    "color_hex_codes": [
+      {
+        "hex": "#F5F5DC",
+        "percentage": 100
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth fabric",
+    "material": "cotton",
+    "occasion": "Business Casual",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "b2_d0da608e"
+  },
+  {
+    "filename": "b2_d0da608e_d0da608e.png",
+    "article_name": "Beige Chino Pants",
+    "category": "Bottom",
+    "subcategory": "Chinos",
+    "basic_color": "Beige",
+    "color_hex_codes": [
+      {
+        "hex": "#F5F5DC",
+        "percentage": 95
+      },
+      {
+        "hex": "#FFFFFF",
+        "percentage": 5
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "b2_d0da608e_d0da608e"
+  },
+  {
+    "filename": "b3_e65de844.png",
+    "article_name": "Beige Drawstring Pants",
+    "category": "Bottom",
+    "subcategory": "Trousers",
+    "basic_color": "Beige",
+    "color_hex_codes": [
+      {
+        "hex": "#D2B48C",
+        "percentage": 100
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth fabric",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "b3_e65de844"
+  },
+  {
+    "filename": "b3_e65de844_e65de844.png",
+    "article_name": "Beige Drawstring Pants",
+    "category": "Bottom",
+    "subcategory": "Pants",
+    "basic_color": "Beige",
+    "color_hex_codes": [
+      {
+        "hex": "#D3BC9B",
+        "percentage": 100
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "b3_e65de844_e65de844"
+  },
+  {
+    "filename": "f10_31760e7e.png",
+    "article_name": "Beige Canvas Sneakers",
+    "category": "Footwear",
+    "subcategory": "Sneakers",
+    "basic_color": "Beige",
+    "color_hex_codes": [
+      {
+        "hex": "#D7B99F",
+        "percentage": 85
+      },
+      {
+        "hex": "#FFFFFF",
+        "percentage": 15
+      }
+    ],
+    "pattern": "solid",
+    "texture": "canvas",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "ankle-length",
+    "image_id": "f10_31760e7e"
+  },
+  {
+    "filename": "f3_78a817b4.png",
+    "article_name": "Dark Brown Chelsea Boots",
+    "category": "Footwear",
+    "subcategory": "Boots",
+    "basic_color": "Dark Brown",
+    "color_hex_codes": [
+      {
+        "hex": "#4B3B29",
+        "percentage": 90
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth leather",
+    "material": "leather",
+    "occasion": "Casual Day Out",
+    "season": "fall",
+    "fit": "regular",
+    "length": "ankle-length",
+    "image_id": "f3_78a817b4"
+  },
+  {
+    "filename": "f4_cf38d36a.png",
+    "article_name": "Beige Slip-On Loafers",
+    "category": "Footwear",
+    "subcategory": "Loafers",
+    "basic_color": "Beige",
+    "color_hex_codes": [
+      {
+        "hex": "#D3B8A5",
+        "percentage": 85
+      },
+      {
+        "hex": "#FFFFFF",
+        "percentage": 15
+      }
+    ],
+    "pattern": "solid",
+    "texture": "soft suede",
+    "material": "suede",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "f4_cf38d36a"
+  },
+  {
+    "filename": "f5_0dd7ca0d.png",
+    "article_name": "Navy Slip-On Loafers",
+    "category": "Footwear",
+    "subcategory": "Loafers",
+    "basic_color": "Navy Blue",
+    "color_hex_codes": [
+      {
+        "hex": "#263F6A",
+        "percentage": 80
+      },
+      {
+        "hex": "#FFFFFF",
+        "percentage": 20
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth suede",
+    "material": "suede",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "f5_0dd7ca0d"
+  },
+  {
+    "filename": "f6_fb5e3922.png",
+    "article_name": "Black Loafers",
+    "category": "Footwear",
+    "subcategory": "Loafers",
+    "basic_color": "Black",
+    "color_hex_codes": [
+      {
+        "hex": "#000000",
+        "percentage": 90
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth leather",
+    "material": "leather",
+    "occasion": "Business Casual",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "f6_fb5e3922"
+  },
+  {
+    "filename": "f7_70844000.png",
+    "article_name": "White Lace-Up Sneakers",
+    "category": "Footwear",
+    "subcategory": "Sneakers",
+    "basic_color": "White",
+    "color_hex_codes": [],
+    "pattern": "solid",
+    "texture": "smooth leather",
+    "material": "leather",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "f7_70844000"
+  },
+  {
+    "filename": "f8_9711f3b3.png",
+    "article_name": "Light Blue Lace-Up Sneakers",
+    "category": "Footwear",
+    "subcategory": "Sneakers",
+    "basic_color": "Light Blue",
+    "color_hex_codes": [
+      {
+        "hex": "#89A7C2",
+        "percentage": 70
+      },
+      {
+        "hex": "#FFFFFF",
+        "percentage": 30
+      }
+    ],
+    "pattern": "solid",
+    "texture": "fabric",
+    "material": "canvas",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "ankle-length",
+    "image_id": "f8_9711f3b3"
+  },
+  {
+    "filename": "o1_ea95c2bd.png",
+    "article_name": "Gray Zip-Up Hoodie",
+    "category": "Outerwear",
+    "subcategory": "Hoodie",
+    "basic_color": "Gray",
+    "color_hex_codes": [
+      {
+        "hex": "#BEBEBE",
+        "percentage": 90
+      }
+    ],
+    "pattern": "graphic",
+    "texture": "soft cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "o1_ea95c2bd"
+  },
+  {
+    "filename": "o1_ea95c2bd_ea95c2bd.png",
+    "article_name": "Gray Zip-Up Hoodie",
+    "category": "Outerwear",
+    "subcategory": "Hoodie",
+    "basic_color": "Gray",
+    "color_hex_codes": [
+      {
+        "hex": "#BEBEBE",
+        "percentage": 90
+      }
+    ],
+    "pattern": "solid",
+    "texture": "soft cotton blend",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "o1_ea95c2bd_ea95c2bd"
+  },
+  {
+    "filename": "o2_f83a79d9.png",
+    "article_name": "Light Blue Denim Jacket",
+    "category": "Outerwear",
+    "subcategory": "Jacket",
+    "basic_color": "Light Blue",
+    "color_hex_codes": [
+      {
+        "hex": "#ADD8E6",
+        "percentage": 70
+      },
+      {
+        "hex": "#87CEEB",
+        "percentage": 30
+      }
+    ],
+    "pattern": "textured",
+    "texture": "denim",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "hip-length",
+    "image_id": "o2_f83a79d9"
+  },
+  {
+    "filename": "o2_f83a79d9_f83a79d9.png",
+    "article_name": "Light Blue Denim Jacket",
+    "category": "Outerwear",
+    "subcategory": "Jacket",
+    "basic_color": "Light Blue",
+    "color_hex_codes": [
+      {
+        "hex": "#A9C9E2",
+        "percentage": 90
+      }
+    ],
+    "pattern": "solid",
+    "texture": "denim",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "waist-length",
+    "image_id": "o2_f83a79d9_f83a79d9"
+  },
+  {
+    "filename": "s1_26fd94e3.png",
+    "article_name": "Pink Graphic T-Shirt",
+    "category": "Top",
+    "subcategory": "T-Shirt",
+    "basic_color": "Pink",
+    "color_hex_codes": [
+      {
+        "hex": "#F4C2C2",
+        "percentage": 80
+      },
+      {
+        "hex": "#000000",
+        "percentage": 10
+      },
+      {
+        "hex": "#FFD700",
+        "percentage": 10
+      }
+    ],
+    "pattern": "graphic",
+    "texture": "soft cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "s1_26fd94e3"
+  },
+  {
+    "filename": "s1_26fd94e3_26fd94e3.png",
+    "article_name": "Pink Graphic T-Shirt",
+    "category": "Top",
+    "subcategory": "T-Shirt",
+    "basic_color": "Pink",
+    "color_hex_codes": [
+      {
+        "hex": "#FFC0CB",
+        "percentage": 80
+      },
+      {
+        "hex": "#000000",
+        "percentage": 10
+      },
+      {
+        "hex": "#FFD700",
+        "percentage": 5
+      },
+      {
+        "hex": "#FF0000",
+        "percentage": 5
+      }
+    ],
+    "pattern": "graphic",
+    "texture": "soft cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "summer",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "s1_26fd94e3_26fd94e3"
+  },
+  {
+    "filename": "s2_68c66478.png",
+    "article_name": "Light Blue Striped Shirt",
+    "category": "Top",
+    "subcategory": "Dress Shirt",
+    "basic_color": "Light Blue",
+    "color_hex_codes": [],
+    "pattern": "striped",
+    "texture": "smooth cotton",
+    "material": "cotton",
+    "occasion": "Business Casual",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "s2_68c66478"
+  },
+  {
+    "filename": "s3_66e23a3b.png",
+    "article_name": "Mustard Button-Up Shirt",
+    "category": "Top",
+    "subcategory": "Button-Up Shirt",
+    "basic_color": "Mustard Yellow",
+    "color_hex_codes": [
+      {
+        "hex": "#B8860B",
+        "percentage": 100
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "s3_66e23a3b"
+  },
+  {
+    "filename": "t1_c775df53.png",
+    "article_name": "Graphic T-Shirt",
+    "category": "Top",
+    "subcategory": "T-Shirt",
+    "basic_color": "Dark Green",
+    "color_hex_codes": [],
+    "pattern": "graphic",
+    "texture": "soft cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "t1_c775df53"
+  },
+  {
+    "filename": "t2_7808f0ef.png",
+    "article_name": "Graphic Maroon T-Shirt",
+    "category": "Top",
+    "subcategory": "T-Shirt",
+    "basic_color": "Maroon",
+    "color_hex_codes": [
+      {
+        "hex": "#6B2323",
+        "percentage": 90
+      },
+      {
+        "hex": "#FFFFFF",
+        "percentage": 10
+      }
+    ],
+    "pattern": "graphic",
+    "texture": "soft cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "t2_7808f0ef"
+  }
+]

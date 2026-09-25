@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Environment secrets
+.env
+
+# Heavy media/processed folders
+processed_items/
+wardrobe/
+uploads/
+logs/
+
+# Large zip archives
+*.zip

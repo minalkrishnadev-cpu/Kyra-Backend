@@ -1,0 +1,300 @@
+[
+  {
+    "filename": "1_ea853caa.png",
+    "article_name": "Embroidered White Dress",
+    "category": "Top",
+    "subcategory": "Dress",
+    "basic_color": "White",
+    "color_hex_codes": [
+      {
+        "hex": "#FFFFFF",
+        "percentage": 80
+      },
+      {
+        "hex": "#FFD700",
+        "percentage": 15
+      },
+      {
+        "hex": "#8B4513",
+        "percentage": 5
+      }
+    ],
+    "pattern": "floral",
+    "texture": "soft cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "summer",
+    "fit": "regular",
+    "length": "knee-length",
+    "image_id": "1_ea853caa"
+  },
+  {
+    "filename": "2_c6c44a3a.png",
+    "article_name": "Red Embroidered Kurta",
+    "category": "Top",
+    "subcategory": "Kurta",
+    "basic_color": "Red",
+    "color_hex_codes": [
+      {
+        "hex": "#FF0000",
+        "percentage": 80
+      },
+      {
+        "hex": "#FFFFFF",
+        "percentage": 20
+      }
+    ],
+    "pattern": "graphic",
+    "texture": "soft cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "summer",
+    "fit": "regular",
+    "length": "knee-length",
+    "image_id": "2_c6c44a3a"
+  },
+  {
+    "filename": "3_14bc772e.png",
+    "article_name": "Beige Embroidered Dress",
+    "category": "Top",
+    "subcategory": "Dress",
+    "basic_color": "Beige",
+    "color_hex_codes": [],
+    "pattern": "floral",
+    "texture": "soft fabric",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "spring",
+    "fit": "regular",
+    "length": "knee-length",
+    "image_id": "3_14bc772e"
+  },
+  {
+    "filename": "4_ad48c85d.png",
+    "article_name": "Beige Wide-Leg Pants",
+    "category": "Bottom",
+    "subcategory": "Pants",
+    "basic_color": "Beige",
+    "color_hex_codes": [],
+    "pattern": "solid",
+    "texture": "smooth",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "summer",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "4_ad48c85d"
+  },
+  {
+    "filename": "b1_c8ab3a8d.png",
+    "article_name": "Blue Flared Jeans",
+    "category": "Bottom",
+    "subcategory": "Jeans",
+    "basic_color": "Blue",
+    "color_hex_codes": [
+      {
+        "hex": "#274690",
+        "percentage": 80
+      }
+    ],
+    "pattern": "solid",
+    "texture": "denim",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "full-length",
+    "image_id": "b1_c8ab3a8d"
+  },
+  {
+    "filename": "b2_cbcb47b4.png",
+    "article_name": "Burgundy Wide-Leg Trousers",
+    "category": "Bottom",
+    "subcategory": "Trousers",
+    "basic_color": "Burgundy",
+    "color_hex_codes": [
+      {
+        "hex": "#800020",
+        "percentage": 100
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth fabric",
+    "material": "Unknown",
+    "occasion": "Business Casual",
+    "season": "fall",
+    "fit": "oversized",
+    "length": "ankle-length",
+    "image_id": "b2_cbcb47b4"
+  },
+  {
+    "filename": "f1_b67302d4.png",
+    "article_name": "Brown Slingback Flats",
+    "category": "Footwear",
+    "subcategory": "Flats",
+    "basic_color": "Brown",
+    "color_hex_codes": [
+      {
+        "hex": "#8B4513",
+        "percentage": 90
+      }
+    ],
+    "pattern": "solid",
+    "texture": "soft suede",
+    "material": "suede",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "f1_b67302d4"
+  },
+  {
+    "filename": "f2_37db4fed.png",
+    "article_name": "Beige Slingback Flats",
+    "category": "Footwear",
+    "subcategory": "Flats",
+    "basic_color": "Beige",
+    "color_hex_codes": [
+      {
+        "hex": "#E6DCCD",
+        "percentage": 90
+      },
+      {
+        "hex": "#D4C2B2",
+        "percentage": 10
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth leather",
+    "material": "leather",
+    "occasion": "Casual Day Out",
+    "season": "summer",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "f2_37db4fed"
+  },
+  {
+    "filename": "f3_9b9d2576.png",
+    "article_name": "Beige Loafers",
+    "category": "Footwear",
+    "subcategory": "Loafers",
+    "basic_color": "Beige",
+    "color_hex_codes": [
+      {
+        "hex": "#D3BCA2",
+        "percentage": 60
+      },
+      {
+        "hex": "#4A3C32",
+        "percentage": 40
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth fabric",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "f3_9b9d2576"
+  },
+  {
+    "filename": "t1_261a6e49.png",
+    "article_name": "Graphic Blue T-Shirt",
+    "category": "Top",
+    "subcategory": "T-Shirt",
+    "basic_color": "Blue",
+    "color_hex_codes": [
+      {
+        "hex": "#4A627F",
+        "percentage": 90
+      },
+      {
+        "hex": "#FFFFFF",
+        "percentage": 10
+      }
+    ],
+    "pattern": "graphic",
+    "texture": "cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "t1_261a6e49"
+  },
+  {
+    "filename": "t2_26fd94e3.png",
+    "article_name": "Pink Graphic T-Shirt",
+    "category": "Top",
+    "subcategory": "T-Shirt",
+    "basic_color": "Pink",
+    "color_hex_codes": [],
+    "pattern": "graphic",
+    "texture": "cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "all-season",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "t2_26fd94e3"
+  },
+  {
+    "filename": "t3_e273d22e.png",
+    "article_name": "White Pleated Sleeveless Blouse",
+    "category": "Top",
+    "subcategory": "Blouse",
+    "basic_color": "White",
+    "color_hex_codes": [
+      {
+        "hex": "#FFFFFF",
+        "percentage": 90
+      }
+    ],
+    "pattern": "solid",
+    "texture": "smooth cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "summer",
+    "fit": "regular",
+    "length": "waist-length",
+    "image_id": "t3_e273d22e"
+  },
+  {
+    "filename": "t4_18409cbb.png",
+    "article_name": "Pink Boho Blouse",
+    "category": "Top",
+    "subcategory": "Blouse",
+    "basic_color": "Pink",
+    "color_hex_codes": [],
+    "pattern": "solid",
+    "texture": "light cotton",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "spring",
+    "fit": "regular",
+    "length": "waist-length",
+    "image_id": "t4_18409cbb"
+  },
+  {
+    "filename": "t5_6d01f4dd.png",
+    "article_name": "Light Blue Puff Sleeve Blouse",
+    "category": "Top",
+    "subcategory": "Blouse",
+    "basic_color": "Light Blue",
+    "color_hex_codes": [
+      {
+        "hex": "#ADD8E6",
+        "percentage": 100
+      }
+    ],
+    "pattern": "solid",
+    "texture": "soft fabric",
+    "material": "cotton",
+    "occasion": "Casual Day Out",
+    "season": "spring",
+    "fit": "regular",
+    "length": "Unknown",
+    "image_id": "t5_6d01f4dd"
+  }
+]
